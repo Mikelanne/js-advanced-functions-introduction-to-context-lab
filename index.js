@@ -1,6 +1,6 @@
 // Your code here
 function createEmployeeRecord(array) {
-    const employee = {
+    return const employee = {
         firstName: (array[0]),
         familyName: (array[1]),
         title: (array[2]),
